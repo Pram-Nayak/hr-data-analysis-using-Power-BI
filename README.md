@@ -29,5 +29,20 @@ This project provides interactive insights into HR data, covering employee demog
 
 
 
-
-
+<table>
+  <tr>
+    <td><img alt="1" width="300" src="https://drive.google.com/uc?id=12G_sDbBr6hgi6NZs_lMN_9JTPtX8zibG"></td>
+    <td><img alt="2" width="300" src="https://drive.google.com/uc?id=1Zyg3SF1FoO5G2JS38y-bFYEyMOs2F8uA"></td>
+    <td><img alt="3" width="300" src="https://drive.google.com/uc?id=1AfNKEEMMcf4IRpAnbyCvNpOBo5ef38WN"></td>
+  </tr>
+  <tr>
+    <td><img alt="4" width="300" src="https://drive.google.com/uc?id=1arqs1w-a47x6wiI6fyLH9KnxeJ_gew4L"></td>
+    <td><img alt="5" width="300" src="https://drive.google.com/uc?id=1tWWrS6RgMPCk40a9-SPG6Jobko0lbP5C"></td>
+    <td><img alt="6" width="300" src="https://drive.google.com/uc?id=14tUSv4vxDLXNZDK6lOU60xIhiLxlX4qP"></td>
+  </tr>
+  <tr>
+    <td><img alt="7" width="300" src="https://drive.google.com/uc?id=1ZSJTYnjIb0wkrUorvgR9btCEojuatu4d"></td>
+    <td><img alt="8" width="300" src="https://drive.google.com/uc?id=1JLZeC8AwSMJyX69xlbhodrz8uuYxJ26v"></td>
+    <td><img alt="9" width="300" src="https://drive.google.com/uc?id=1GUye8WdIhnNr9IUQNzH_cSiPY_3N6uCH"></td>
+  </tr>
+</table>
